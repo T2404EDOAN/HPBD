@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Bạn có biết hôm nay là ngày gì không? Hãy mở bức thư này để khám phá nhé!" //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Cậu có biết hôm nay là ngày gì không ạ? Hãy mở bức thư này nha!" //Lời mở đầu cho bức thư
 const mainContentLetter = `
 Chúc mừng sinh nhật cậu! 🌹
 
@@ -6,7 +6,7 @@ Hôm nay là ngày đặc biệt nhất, vì đó là ngày cậu đến với t
 
 Tớ chúc cậu luôn hạnh phúc, thành công và những ước mơ đều trở thành hiện thực. Cậu xứng đáng với tất cả những điều tốt đẹp nhất.
 
-Chúc cậu một sinh nhật thật ngọt ngào và ý nghĩa. 🎂🎁✨
+Chúc cậu một sinh nhật thật ngọt ngào và ý nghĩa.  <3 Hoa 🎂🎁✨
 `;
 
 // Gắn 1 đường link ảnh bất kì
