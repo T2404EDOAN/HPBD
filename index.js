@@ -1,6 +1,6 @@
 const contentLetterSrart_actived = "Cậu có biết hôm nay là ngày gì không ạ? Hãy mở bức thư này nha!" //Lời mở đầu cho bức thư
 const mainContentLetter = `
-Chúc mừng sinh nhật cậu! 🌹
+Chúc mừng sinh nhật cậu! 🌸
 
 Hôm nay là ngày đặc biệt nhất, vì đó là ngày cậu đến với thế giới này và làm nó tươi đẹp hơn – nhất là với tớ.
 
